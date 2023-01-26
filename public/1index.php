@@ -2,3 +2,4 @@
     <input name="pictures" type="file">
     <button type="submit"></button>
 </form>
+<a>
